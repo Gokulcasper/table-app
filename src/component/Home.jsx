@@ -12,7 +12,7 @@ const data = [
 const Home = () => {
   return (
     <div className="home_container">
-      <h1>Employee Name</h1>
+      <h1>Student Name</h1>
       <table border="2">
         <thead>
           <tr>
